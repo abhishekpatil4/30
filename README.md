@@ -1,2 +1,2 @@
 # 30
-30s timer
+30s timer.
